@@ -1,4 +1,4 @@
  <?php 
- echo "I am from GitHub source for demo purpose...<br><br>";
+ echo "It is the Source from Github<br><br>";
  echo "My Pod IP is : ".$_SERVER['SERVER_ADDR'] ;
  ?>
