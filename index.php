@@ -1,4 +1,4 @@
  <?php 
- echo "This source is from the GitHub repo...<br><br>";
+ echo "Hi, This is to DEMO Application Deployment from GitHub Src...<br><br>";
  echo "My Pod IP is : ".$_SERVER['SERVER_ADDR'] ;
  ?>
