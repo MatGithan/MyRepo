@@ -4,12 +4,12 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>OpenShift COntainer Platform - Sample Application</title>
+    <title>OpenShift Container Platform - Sample Application</title>
   
   </head>
   <body>
    
-          <h1>Welcome to an OpenShift Application!</h1>
+          <h1>Welcome to an OpenShift 3.3 - Sample Application !</h1>
           <p>The purpose of this application is to demonstrate several interesting features about OpenShift.!</p>
      
           <h2>Application Information</h2>
