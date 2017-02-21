@@ -34,7 +34,7 @@
       
           <h2>Application Example</h2>
           <p>
-            <img src="redhorse.jpg">
+            <img src="bluehorse.jpg">
           </p>
        
    
