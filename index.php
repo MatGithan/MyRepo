@@ -9,7 +9,7 @@
   </head>
   <body>
    
-          <h1>Welcome to an OpenShift 3.3 - Sample Application !</h1>
+          <h1>Welcome to an OpenShift 3.3 - Sample Application ! Just an demo</h1>
           <p>The purpose of this application is to demonstrate several interesting features about OpenShift.!</p>
      
           <h2>Application Information</h2>
