@@ -10,7 +10,7 @@
   <body>
    
           <h1>Welcome to an OpenShift - Demo Sample Application ! (Checking GitHub) </h1>
-          <p>The purpose of this application is to demonstrate several interesting features about OpenShift.!</p>
+          <p>The purpose of this application is to demonstrate interesting features of OpenShift.!</p>
      
           <h2>Application Information</h2>
           <table border="1" bordercolor="green">
